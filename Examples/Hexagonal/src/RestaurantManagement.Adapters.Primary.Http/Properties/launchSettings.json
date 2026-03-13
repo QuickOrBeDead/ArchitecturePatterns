@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "RestaurantManagement.Adapters.Primary.Http": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "scalar",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:49876;http://localhost:49878"
+    }
+  }
+}
