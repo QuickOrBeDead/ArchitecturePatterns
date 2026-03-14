@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/RestaurantManagement.Adapters.Primary.Http/RestaurantManagement.Adapters.Primary.Http.csproj" />
+  <Project Path="src/RestaurantManagement.Adapters.Secondary.Persistence/RestaurantManagement.Adapters.Secondary.Persistence.csproj" />
+  <Project Path="src/RestaurantManagement.Application/RestaurantManagement.Application.csproj" />
+  <Project Path="src/RestaurantManagement.Domain/RestaurantManagement.Domain.csproj" />
+</Solution>
